@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 metadata:
   name: sample-using-parent
 parent:
-  uri: https://raw.githubusercontent.com/testsfactory/parentDevfile/main/parent.yaml
+  uri: https://raw.githubusercontent.com/Sachin-Itagi/parentDevfile/main/parent.yaml
   components:
     - name: tools
       container:
